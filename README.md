@@ -18,7 +18,7 @@ A sleek and responsive AI-themed website built with **React** and **Tailwind CSS
 
 - **React**
 - **Tailwind CSS**
-- **Vite** (or Create React App if you're using that)
-- **Heroicons** (for icons)
+- **Vite**
+- **Heroicons**
 
 ---
