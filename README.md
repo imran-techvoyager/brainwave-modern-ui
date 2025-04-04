@@ -10,7 +10,6 @@ A sleek and responsive AI-themed website built with **React** and **Tailwind CSS
 - 📱 Fully responsive layout
 - 🎨 Tailwind CSS for fast and scalable styling
 - ⚛️ Built with React (functional components & hooks)
-- 🌙 Dark mode-ready (optional)
 - 🧠 AI/product branding theme
 
 ---
@@ -21,6 +20,5 @@ A sleek and responsive AI-themed website built with **React** and **Tailwind CSS
 - **Tailwind CSS**
 - **Vite** (or Create React App if you're using that)
 - **Heroicons** (for icons)
-- *(Optional)* Framer Motion for subtle animations
 
 ---
